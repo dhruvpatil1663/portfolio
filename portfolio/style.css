@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    width: 100%;
+}
+.creative{
+    color: blue;
+    font-weight: bold;
+}
+.navbar{
+    width: 100%;
+}
+
+.enhance{
+    background-color: rgb(31, 46, 114);
+}
+.projects{
+    margin-left: 100px;
+}
